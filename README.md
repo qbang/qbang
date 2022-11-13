@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hi!&nbsp;I'm&nbsp;Sujung&nbsp;Bang&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!&nbsp;I'm&nbsp;Sujung&nbsp;Bang&fontSize=27)
 <h3 align="center"> 🥇 Baekjoon solved rank 🥇 </h3>
 <div align="center">
   
