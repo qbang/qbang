@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi!&nbsp;I'm&nbsp;Sujung&nbsp;Bang&fontSize=35)
-
-![Qbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbang&show_icons=true)
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)
-
-<h3 align="center"> 📚 Tech Stack 📚 </h3>
+<h3 align="center"> 🥇 Baekjoon solved rank 🥇 </h3>
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)](https://solved.ac/52hater/)
+  
+</div>
+  
+<h3 align="center"> 📚 Skills 📚 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
