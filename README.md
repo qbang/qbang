@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!&nbsp;I'm&nbsp;Sujung&nbsp;Bang&fontSize=27)
 <h3 align="center"> 🥇 Baekjoon solved rank 🥇 </h3>
 <div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)](https://solved.ac/52hater/)
-  
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)](https://solved.ac/52hater/)
 </div>
 <h3 align="center"> 📚 Skills 📚 </h3>
 <p align="center">
