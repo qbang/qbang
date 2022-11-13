@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi!&nbsp;I'm&nbsp;Sujung&nbsp;Bang&fontSize=35)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)](https://solved.ac/52hater) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbang)](https://github.com/qbang/github-readme-stats)
+
+![Qbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbang&show_icons=true)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=52hater)
 
 <h3 align="center"> 📚 Tech Stack 📚 </h3>
 <p align="center">
